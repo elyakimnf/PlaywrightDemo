@@ -1,2 +1,0 @@
-# PlaywrightDemo
-Playwright Python
